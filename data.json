@@ -2,6 +2,15 @@
   "coins": 0,
   "xp": 0,
   "sessions_completed": 0,
-  "options": { "focus_minutes": 25, "break_minutes": 5 },
-  "inventory": { "hat": false, "pet_slime": false }
+  "options": {
+    "focus_minutes": 25,
+    "short_break_minutes": 5,
+    "long_break_minutes": 15,
+    "long_after_n_focus": 2,
+    "sound_enabled": true
+  },
+  "inventory": {"hat": false, "pet_slime": false},
+  "tasks": [],
+  "calendar": {},
+  "sessions": []
 }
